@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:05.899897
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:22
 #+TITLE: 佛說最上祕密那拏天經
 #+PROPERTY: CBETA_ID T21n1288
 #+PROPERTY: ID KR6j0519
@@ -19,7 +19,7 @@ No.1288¶
 西天譯經三藏朝奉大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
 
-1最上成就儀軌分
+* 1最上成就儀軌分
 :PROPERTIES:
 :head: 最上成就儀軌分第一
 :END:
