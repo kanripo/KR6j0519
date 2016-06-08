@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:05.943579
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:22
 #+TITLE: 佛說最上祕密那拏天經
 #+PROPERTY: CBETA_ID T21n1288
 #+PROPERTY: ID KR6j0519
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1288
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0519_T_000-0358a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0519_T_003-0364a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 佛說最上祕密那拏天經卷下¶
+佛說最上祕密那拏天經卷下¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
 
-6最上成就供養大明分
-:PROPERTIES:
-:head: 最上成就供養大明分第六
-:END:
-¶
+* 最上成就供養大明分第六¶
 
 爾時那拏天。說獻閼伽大明曰。¶
 
@@ -133,11 +128,7 @@
 加持二十一遍當作擁護。
 <pb:KR6j0519_T_003-0365a>¶
 
-7最上成就印相大明分
-:PROPERTIES:
-:head: 最上成就印相大明分第七
-:END:
-¶
+* 最上成就印相大明分第七¶
 
 爾時那拏天復說印相法。此印相乃是最上¶
 成就之法。行人將欲作法結。印先須潔淨兩¶
@@ -218,11 +209,7 @@
 相大明等。然可依法。作諸成就事所作皆¶
 成。¶
 
-8最上成就敬愛護摩法分
-:PROPERTIES:
-:head: 最上成就敬愛護摩法分第八
-:END:
-¶
+* 最上成就敬愛護摩法分第八¶
 
 爾時那拏天復說大明曰。¶
 
@@ -258,11 +245,7 @@
 作護摩已復誦此大明七遍。時那拏天即還¶
 本處。¶
 
-9大明曼拏羅成就儀軌分
-:PROPERTIES:
-:head: 大明曼拏羅成就儀軌分第九
-:END:
-¶
+* 大明曼拏羅成就儀軌分第九¶
 
 爾時那拏天復說大明曰。¶
 

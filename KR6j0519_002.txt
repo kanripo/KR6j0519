@@ -1,28 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:05.922246
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:22
 #+TITLE: 佛說最上祕密那拏天經
 #+PROPERTY: CBETA_ID T21n1288
 #+PROPERTY: ID KR6j0519
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1288
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0519_T_000-0358a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0519_T_002-0361b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 佛說最上祕密那拏天經卷中¶
+佛說最上祕密那拏天經卷中¶
 ¶
-西天譯經三藏朝奉大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+西天譯經三藏朝奉大夫試光祿卿明教大師臣法賢奉　詔譯¶
 
-2成就儀軌分
-:PROPERTIES:
-:head: 成就儀軌分第二
-:END:
-¶
+* 成就儀軌分第二¶
 
 爾時那拏天復說大明曰。¶
 
@@ -135,11 +129,7 @@
 如是大明所作成就法。皆須燒安悉香加持¶
 悉得成就。¶
 
-3最上成就儀軌分
-:PROPERTIES:
-:head: 最上成就儀軌分第三
-:END:
-¶
+* 最上成就儀軌分第三¶
 
 爾時那拏天復說大明曰。¶
 
@@ -221,11 +211,7 @@
 如是諸法皆用安悉香加持焚燒。即一切法¶
 皆得成就。¶
 
-4最上曼拏羅儀軌成就法分
-:PROPERTIES:
-:head: 最上曼拏羅儀軌成就法分第四
-:END:
-¶
+* 最上曼拏羅儀軌成就法分第四¶
 
 爾時那拏天復說最上大曼拏羅法。此曼拏
 <pb:KR6j0519_T_002-0363b>¶
@@ -288,11 +274,7 @@
 行人用花誦此大明加持一遍。焚燒安悉香¶
 熏花獻。那拏天即隱身不現。¶
 
-5最上成就畫像儀軌分
-:PROPERTIES:
-:head: 最上成就畫像儀軌分第五
-:END:
-¶
+* 最上成就畫像儀軌分第五¶
 
 爾時那拏天復說畫像法。若行人欲畫那拏¶
 天像者。當用新好素帛具茸頭者。量方四肘。

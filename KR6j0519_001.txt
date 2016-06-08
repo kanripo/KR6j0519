@@ -1,29 +1,24 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:05.899897
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:22
 #+TITLE: 佛說最上祕密那拏天經
 #+PROPERTY: CBETA_ID T21n1288
 #+PROPERTY: ID KR6j0519
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1288
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0519_T_000-0358a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0519_T_001-0358a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1288¶
-
- 佛說最上祕密那拏天經卷上¶
+No. 1288¶
+佛說最上祕密那拏天經卷上¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
 
-1最上成就儀軌分
-:PROPERTIES:
-:head: 最上成就儀軌分第一
-:END:
-¶
+* 最上成就儀軌分第一¶
 
 如是我聞。一時佛在毘沙門宮。與大菩薩摩¶
 訶薩眾俱。大祕密主金剛手菩薩而為上首。¶
@@ -287,7 +282,7 @@ No.1288¶
 成就之事。¶
 
 又法若欲令葛波羅作成就法者。先依法塗¶
-曼拏羅已。即依法擇取葛波羅潔淨者。用白¶
+曼拏羅己。即依法擇取葛波羅潔淨者。用白¶
 檀香塗之。安曼拏羅中。燒安悉香誦心明一¶
 遍加持。即所作成就能令舉動。復能說三世¶
 之事。¶
